@@ -26,8 +26,6 @@ Note: You could even help to improve the documentation and contribution guidelin
 If your favorite language directory is not available, please go ahead and click one and add your folder in that directory.
 `
 
-
-
 Star ⭐ ⭐ ⭐ ⭐ ⭐ me if you like it, share it with your friends and fellow programmers to add some cool scripts.
 
 ## Awesome contributors
@@ -36,4 +34,3 @@ Star ⭐ ⭐ ⭐ ⭐ ⭐ me if you like it, share it with your friends and fello
 </a>
 
 
-## Thank you all.
